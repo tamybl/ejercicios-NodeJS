@@ -1,0 +1,13 @@
+Organizacion del Codigo JS
+
+Librerias/Modulos
+constantes
+objetos/variables
+funciones
+eventos
+ejecuciones
+
+  Usar CamelCase
+    Cuando una instrucciones tenga una sola palabra, va en minusculas p.e require
+
+  A la hora de trabajar JS, utiliza el modo estricto ('use strict') // modo para trabajar con buenas practicas
